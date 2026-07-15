@@ -1,0 +1,16 @@
+{
+  "logo_image": "https://cdn.discordapp.com/attachments/1526250472883617955/1527040410583699486/brand_logo.png?ex=6a5936b4&is=6a57e534&hm=e1533058ae1376496067bb141c7310c0df418524a547a0d1596064a9582b48d1&",
+  "banner_image": "https://media.discordapp.net/attachments/1526250472883617955/1527040288420270273/nexus_banner.jpg?ex=6a593697&is=6a57e517&hm=e6cff03ffd489df569ccf8de63444f70b14424a74797afce1b136e06baf3f64a&=&format=webp&width=550&height=309",
+  "news": [
+    {
+      "title": "THE NEXUS WAR BEGINS",
+      "desc": "Chapter 2 Season 4 is officially live on Project Vertex! Dive into the action and unleash the power of Marvel.",
+      "image": "https://media.discordapp.net/attachments/1526250472883617955/1527040288420270273/nexus_banner.jpg?ex=6a593697&is=6a57e517&hm=e6cff03ffd489df569ccf8de63444f70b14424a74797afce1b136e06baf3f64a&=&format=webp&width=550&height=309"
+    },
+    {
+      "title": "PATCH v14.60 STABILITY",
+      "desc": "We have successfully patched our backend server. Matches should feel smoother with improved matchmaking queues.",
+      "image": "https://cdn.discordapp.com/attachments/1526250472883617955/1526999024752918678/SplashScreen.png?ex=6a591029&is=6a57bea9&hm=8073055dd46b0dec8bc36ed6d375ff81858007261053a914ca0d2a1861d2ba15&"
+    }
+  ]
+}
